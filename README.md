@@ -14,5 +14,5 @@
 4. https://engineering.linkedin.com
 5. https://engineering.microsoft.com
 
-### Something out of scope
+## Something out of scope
 1. https://www.indiehackers.com/ (related to Online business/start-up by developing your own products)
