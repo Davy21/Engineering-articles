@@ -3,6 +3,7 @@
 2. https://www.freecodecamp.org/news/
 3. https://medium.com (you need to search the category by yourself, there is lots of good articles!)
 4. https://hackernoon.com/
+5. https://www.spiceworks.com/?source=navbar-global
 
 ### Corporation tech blog
 1. https://engineering.fb.com
