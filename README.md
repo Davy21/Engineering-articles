@@ -14,6 +14,7 @@
 3. https://blog.gojekengineering.com
 4. https://engineering.linkedin.com
 5. https://engineering.microsoft.com
+6. https://engineering.shopify.com
 
 ## Something out of scope
 1. https://www.indiehackers.com/ (related to Online business/start-up by developing your own products)
