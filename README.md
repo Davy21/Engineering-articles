@@ -7,6 +7,7 @@
 4. https://hackernoon.com/
 5. https://www.spiceworks.com/?source=navbar-global
 6. https://css-tricks.com
+7. https://www.infoq.cn (Simplified Chinese)
 
 ### Corporation tech blog
 1. https://engineering.fb.com
