@@ -17,6 +17,7 @@
 5. https://engineering.microsoft.com
 6. https://engineering.shopify.com
 7. https://eng.uber.com
+8. https://netflixtechblog.com
 
 ## Something out of scope
 1. https://www.indiehackers.com/ (related to Online business/start-up by developing your own products)
