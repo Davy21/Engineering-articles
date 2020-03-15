@@ -7,7 +7,7 @@
 4. https://hackernoon.com/
 5. https://www.spiceworks.com/?source=navbar-global
 6. https://css-tricks.com
-7. https://www.infoq.cn (Simplified Chinese)
+7. https://www.infoq.com (Language : EN,CH,JP,FR,BR)
 8. https://dev.to
 9. https://www.thoughtworks.com
 
