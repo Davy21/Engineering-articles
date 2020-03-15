@@ -1,6 +1,6 @@
 ## Insightful Articles on Software Development/Architecture
 
-### Community/NPO Websites 
+### Recommended Websites 
 1. https://www.codementor.io/community
 2. https://www.freecodecamp.org/news/
 3. https://medium.com (you need to search the category by yourself, there is lots of good articles!)
