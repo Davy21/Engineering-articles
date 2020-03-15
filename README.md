@@ -1,4 +1,4 @@
-## Insightful Articles on Software Development/Architecture
+## Insightful Articles on Software Development/Architecture/Trend
 
 ### Recommended Websites 
 1. https://www.codementor.io/community
