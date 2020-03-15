@@ -1,4 +1,4 @@
-## Insightful Articles on Software Development
+## Insightful Articles on Software Development/Architecture
 
 ### Community/NPO Websites 
 1. https://www.codementor.io/community
@@ -9,6 +9,7 @@
 6. https://css-tricks.com
 7. https://www.infoq.cn (Simplified Chinese)
 8. https://dev.to
+9. https://www.thoughtworks.com
 
 ### Corporation tech blog
 1. https://engineering.fb.com
