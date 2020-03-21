@@ -10,6 +10,7 @@
 7. https://www.infoq.com (Language : EN,CH,JP,FR,BR)
 8. https://dev.to
 9. https://www.thoughtworks.com
+10. https://microservices.io/index.html (Topic on microservice only)
 
 ### Corporation tech blog
 1. https://engineering.fb.com
