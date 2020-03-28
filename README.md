@@ -22,5 +22,8 @@
 7. https://eng.uber.com
 8. https://netflixtechblog.com
 
+### CICD
+1. https://www.serverlab.ca/
+
 ## Something out of scope
 1. https://www.indiehackers.com/ (related to Online business/start-up by developing your own products)
