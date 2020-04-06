@@ -24,6 +24,7 @@
 7. https://eng.uber.com
 8. https://netflixtechblog.com
 9. https://instagram-engineering.com
+10. https://medium.com/coursera-engineering
 
 ### CICD
 1. https://www.serverlab.ca/
