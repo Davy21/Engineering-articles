@@ -23,6 +23,7 @@
 6. https://engineering.shopify.com
 7. https://eng.uber.com
 8. https://netflixtechblog.com
+9. https://instagram-engineering.com
 
 ### CICD
 1. https://www.serverlab.ca/
