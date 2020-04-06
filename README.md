@@ -1,3 +1,5 @@
+> This is a list of links which, I think, will give you insights from architecture to coding to IT management. I hope you will like it ! 
+
 ## Insightful Articles on Software Development/Architecture/Trend
 
 ### Recommended Websites 
