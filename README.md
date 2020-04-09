@@ -1,6 +1,6 @@
-> This is a list of links which, I think, will give you insights from architecture to coding to IT management. I hope you will like it ! 
-
 ## Insightful Articles on Software Development/Architecture/Trend
+
+> This is a list of links which, I think, will give you insights from architecture to coding to IT management. I hope you will like it ! 
 
 ### Recommended Websites 
 1. https://www.codementor.io/community
