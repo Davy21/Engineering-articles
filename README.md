@@ -13,6 +13,7 @@
 8. https://dev.to
 9. https://www.thoughtworks.com
 10. https://microservices.io/index.html (Topic on microservice only)
+11. https://insights.dice.com/2016/11/11/5-subreddits-developer/ (sub-Reddit)
 
 ### Corporation tech blog
 1. https://engineering.fb.com
