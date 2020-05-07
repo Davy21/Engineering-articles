@@ -16,6 +16,7 @@
 11. https://insights.dice.com/2016/11/11/5-subreddits-developer/ (sub-Reddit)
 12. https://devopscube.com (DevOps)
 13. https://realtimeapi.io
+14. https://12factor.net
 
 ### Corporation tech blog
 1. https://engineering.fb.com
