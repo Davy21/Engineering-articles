@@ -17,6 +17,7 @@
 12. https://devopscube.com (DevOps)
 13. https://realtimeapi.io
 14. https://12factor.net
+15. https://www3.ntu.edu.sg/home/ehchua/programming/index.html#HowTo
 
 ### Corporation tech blog
 1. https://engineering.fb.com
