@@ -32,6 +32,9 @@
 9. https://instagram-engineering.com
 10. https://medium.com/coursera-engineering
 
+### Cloud Blog
+1. https://www.ibm.com/cloud/blog
+
 ### CICD
 1. https://www.serverlab.ca/
 
