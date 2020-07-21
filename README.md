@@ -31,6 +31,7 @@
 8. https://netflixtechblog.com
 9. https://instagram-engineering.com
 10. https://medium.com/coursera-engineering
+11. https://medium.com/stashaway-engineering
 
 ### Cloud Blog
 1. https://www.ibm.com/cloud/blog
