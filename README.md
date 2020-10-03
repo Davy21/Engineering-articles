@@ -46,3 +46,4 @@
 ## Something out of scope
 1. https://www.indiehackers.com/ (related to Online business/start-up by developing your own products)
 2. https://www.cio.com/asean/ (IT Trends and management)
+3. https://www.gartner.com/en/information-technology (Insignts on IT)
