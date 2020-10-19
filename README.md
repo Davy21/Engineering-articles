@@ -20,6 +20,7 @@
 15. https://www3.ntu.edu.sg/home/ehchua/programming/index.html#HowTo
 16. https://www.magalix.com/blog/page/1
 17. https://developer.ibm.com
+18. https://martinfowler.com
 
 ### Corporation tech blog
 1. https://engineering.fb.com
