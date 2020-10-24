@@ -34,6 +34,7 @@
 9. https://instagram-engineering.com
 10. https://medium.com/coursera-engineering
 11. https://medium.com/stashaway-engineering
+12. https://www.benevolent.com/engineering-blog
 
 ### Cloud Blog
 1. https://www.ibm.com/cloud/blog
