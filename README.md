@@ -43,7 +43,7 @@
 1. https://www.serverlab.ca/
 
 ## Learning
-1. https://debug.to
+1. https://debug.to (mostly Microsoft related)
 
 ## Something out of scope
 1. https://www.indiehackers.com/ (related to Online business/start-up by developing your own products)
