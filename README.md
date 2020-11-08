@@ -39,6 +39,7 @@
 
 ### Cloud Blog
 1. https://www.ibm.com/cloud/blog
+2. https://cloud.google.com/solutions#section-3
 
 ### CICD
 1. https://www.serverlab.ca/
