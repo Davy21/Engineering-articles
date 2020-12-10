@@ -43,6 +43,7 @@
 
 ### CICD
 1. https://www.serverlab.ca/
+2. https://developers.redhat.com/
 
 ## Learning
 1. https://debug.to (mostly Microsoft related)
