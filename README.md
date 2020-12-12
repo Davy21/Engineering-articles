@@ -45,6 +45,9 @@
 1. https://www.serverlab.ca/
 2. https://developers.redhat.com/
 
+### Security
+1. https://www.cisecurity.org/resources/
+
 ## Learning
 1. https://debug.to (mostly Microsoft related)
 
