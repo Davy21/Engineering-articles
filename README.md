@@ -40,6 +40,7 @@
 ### Cloud Blog
 1. https://www.ibm.com/cloud/blog
 2. https://cloud.google.com/solutions#section-3
+3. https://microsoftcloudworkshop.com
 
 ### CICD
 1. https://www.serverlab.ca/
@@ -48,11 +49,9 @@
 ### Security
 1. https://www.cisecurity.org/resources/
 
-## Learning
-1. https://debug.to (mostly Microsoft related)
-
 ## Something out of scope
 1. https://www.indiehackers.com/ (related to Online business/start-up by developing your own products)
 2. https://www.cio.com/asean/ (IT Trends and management)
 3. https://www.gartner.com/en/information-technology (Insignts on IT)
 4. https://www.splunk.com/en_us/resources.html
+5. https://debug.to (mostly Microsoft related)
