@@ -41,6 +41,7 @@
 1. https://www.ibm.com/cloud/blog
 2. https://cloud.google.com/solutions#section-3
 3. https://microsoftcloudworkshop.com
+4. https://developer.aliyun.com/?spm=a2c6h.12873639.1364563.1.6c94184dYopk7n
 
 ### CICD
 1. https://www.serverlab.ca/
