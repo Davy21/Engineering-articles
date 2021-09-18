@@ -44,6 +44,7 @@
 4. https://developer.aliyun.com/?spm=a2c6h.12873639.1364563.1.6c94184dYopk7n
 5. https://azurecitadel.com
 6. https://docs.microsoft.com/en-us/azure/architecture/
+7. https://cloud.tencent.com/developer
 
 ### CICD
 1. https://www.serverlab.ca/
