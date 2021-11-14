@@ -36,6 +36,7 @@
 11. https://medium.com/stashaway-engineering
 12. https://www.benevolent.com/engineering-blog
 13. https://engineering.atspotify.com
+14. https://blog.twitter.com/engineering/en_us
 
 ### Cloud Blog
 1. https://www.ibm.com/cloud/blog
