@@ -21,6 +21,7 @@
 16. https://www.magalix.com/blog/page/1
 17. https://developer.ibm.com
 18. https://martinfowler.com
+19. https://hub.packtpub.com
 
 ### Corporation tech blog
 1. https://engineering.fb.com
