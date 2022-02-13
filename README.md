@@ -39,6 +39,7 @@
 13. https://engineering.atspotify.com
 14. https://blog.twitter.com/engineering/en_us
 15. https://engineering.zalando.com
+16. https://slack.engineering/
 
 ### Cloud Blog
 1. https://www.ibm.com/cloud/blog
