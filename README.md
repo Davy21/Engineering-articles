@@ -42,9 +42,9 @@
 16. https://slack.engineering/
 
 ### AI
-1. deeplearningbook.org
-2. fast.ai
-3. huggingface.co/blog
+1. https://deeplearningbook.org
+2. https://fast.ai
+3. https://huggingface.co/blog
 
 ### Cloud Blog
 1. https://www.ibm.com/cloud/blog
