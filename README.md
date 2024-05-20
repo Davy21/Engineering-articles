@@ -41,6 +41,11 @@
 15. https://engineering.zalando.com
 16. https://slack.engineering/
 
+### AI
+1. deeplearningbook.org
+2. fast.ai
+3. huggingface.co/blog
+
 ### Cloud Blog
 1. https://www.ibm.com/cloud/blog
 2. https://cloud.google.com/solutions#section-3
