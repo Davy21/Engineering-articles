@@ -40,6 +40,7 @@
 14. https://blog.twitter.com/engineering/en_us
 15. https://engineering.zalando.com
 16. https://slack.engineering/
+17. https://engineering.mercari.com/en/technology-stack/
 
 ### AI
 1. https://deeplearningbook.org
@@ -72,3 +73,4 @@
 
 ## Tech Discussion in Japanese
 1. https://qiita.com/
+2. https://zenn.dev/
