@@ -69,3 +69,6 @@
 3. https://www.gartner.com/en/information-technology (Insignts on IT)
 4. https://www.splunk.com/en_us/resources.html
 5. https://debug.to (mostly Microsoft related)
+
+## Tech Discussion in Japanese
+1. https://qiita.com/
